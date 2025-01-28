@@ -29,7 +29,7 @@ We have datasets from IMDB containing movie data from the 19th, 20th, and 21st c
 
 **Trend Analysis**:
 
-   ◦ Analyze trends in movies over the years, such as changes in runtime and the rise and fall of popular genres or genre combinations.
+ <pre>◦ Analyze trends in movies over the years, such as changes in runtime and the rise and fall of popular genres or genre combinations.</pre>
 
 **Popularity Insights**:
 
