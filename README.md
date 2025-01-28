@@ -4,7 +4,8 @@
 
 We have datasets from IMDB containing movie data from the 19th, 20th, and 21st centuries (up to 2023). Additionally, we have datasets covering genres, ratings, actors, and writers. This project focuses on pre-processing the data using Python, making it ready for advanced analysis. The cleaned dataset is primed for use in advanced analytics and insights.
 
-### Key Details
+
+### <ins>Key Details</ins>
 
 **Dataset Size**: Processed a large, messy dataset containing 178,617 rows of movie data.
 
@@ -18,11 +19,13 @@ We have datasets from IMDB containing movie data from the 19th, 20th, and 21st c
 
 **Efficiency Upgrades**: Optimized code for better performance, reducing runtime and improving scalability.
 
-### Tech Stack
+
+### <ins>Tech Stack</ins>
 
 **Python Libraries**: pandas, numpy
 
-### Application
+
+### <ins>Application</ins>
 
 **Trend Analysis**:
 
