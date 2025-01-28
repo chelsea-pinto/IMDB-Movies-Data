@@ -29,22 +29,22 @@ We have datasets from IMDB containing movie data from the 19th, 20th, and 21st c
 
 **Trend Analysis**:
 
-&nbsp;&nbsp;&nbsp; ◦ Analyze trends in movies over the years, such as changes in runtime and the rise and fall of popular genres or genre combinations.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ◦ Analyze trends in movies over the years, such as changes in runtime and the rise and fall of popular genres or genre combinations.
 
 **Popularity Insights**:
 
-    ◦ Identify popular movies across various categories by assessing awards, nominations, and ratings.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Identify popular movies across various categories by assessing awards, nominations, and ratings.
 
-    ◦ Understand how critics and audiences differ in their preferences.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Understand how critics and audiences differ in their preferences.
 
 **Industry Insight**s:
 
-    ◦ Analyze data on actors and writers to reveal their involvement in successful movies.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Analyze data on actors and writers to reveal their involvement in successful movies.
 
-    ◦ Gain insights into collaborations (e.g., which actors or writers work well together).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Gain insights into collaborations (e.g., which actors or writers work well together).
 
 **Real-World Applications**:
 
-    ◦ Filmmakers: Understand trends and factors that contribute to creating crowd-favorite films.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Filmmakers: Understand trends and factors that contribute to creating crowd-favorite films.
 
-    ◦ Investors: Identify movies or genres with high success potential to guide investment decisions.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Investors: Identify movies or genres with high success potential to guide investment decisions.
